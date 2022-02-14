@@ -1,0 +1,48 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "name": "Zomato inc",
+      "email": "zomato@zmt.com",
+      "mobile": "9999900000",
+      "address": "kuch nhi pata",
+      "services": "chai wala"
+    },
+    {
+      "id": 3,
+      "name": "Test",
+      "email": "Test@gmail.com",
+      "mobile": "9900112233",
+      "address": "Gurgaon",
+      "services": "Kulfi, IceCream"
+    },
+    {
+      "id": 4,
+      "name": "abc",
+      "email": "abc@gmail.com",
+      "mobile": "88888888888",
+      "address": "zomato1",
+      "services": "samosa"
+    }
+  ],
+  "signup": [
+    {
+      "name": "dileep",
+      "email": "dileep@ibm.in",
+      "mobile": "9876543210",
+      "password": "password",
+      "id": 1
+    },
+    {
+      "name": "Dileep",
+      "email": "dileep@ymail.com",
+      "mobile": "9876543219",
+      "password": "dileep123",
+      "id": 2
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
